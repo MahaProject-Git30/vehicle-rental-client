@@ -20,7 +20,7 @@ It allows users to browse cars, book vehicles, make payments, request to become 
 
 Clone the repository 
 
-git clone "http://github.com/maharichu30/vehical-rental-client"
+git clone "https://github.com/MahaProject-Git30/vehicle-rental-client"
 
 Navigate to frontend folder
 
@@ -188,7 +188,7 @@ Admin manages the entire platform.
 
 Admin login:
 
-Email: admin@gmail.com  
+Email: rajmaharichi@gmail.com  
 Password: admin12345
 
 Admin can:
